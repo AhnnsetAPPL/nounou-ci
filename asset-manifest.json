@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nounou-ci/static/css/main.6b2b4856.chunk.css",
-    "main.js": "/nounou-ci/static/js/main.0548dbe4.chunk.js",
-    "main.js.map": "/nounou-ci/static/js/main.0548dbe4.chunk.js.map",
+    "main.css": "/nounou-ci/static/css/main.535cdfc5.chunk.css",
+    "main.js": "/nounou-ci/static/js/main.5b544636.chunk.js",
+    "main.js.map": "/nounou-ci/static/js/main.5b544636.chunk.js.map",
     "runtime-main.js": "/nounou-ci/static/js/runtime-main.143086e3.js",
     "runtime-main.js.map": "/nounou-ci/static/js/runtime-main.143086e3.js.map",
     "static/js/2.c6272cde.chunk.js": "/nounou-ci/static/js/2.c6272cde.chunk.js",
     "static/js/2.c6272cde.chunk.js.map": "/nounou-ci/static/js/2.c6272cde.chunk.js.map",
     "index.html": "/nounou-ci/index.html",
-    "precache-manifest.7f4bcf750b089abe716983fc0064045e.js": "/nounou-ci/precache-manifest.7f4bcf750b089abe716983fc0064045e.js",
+    "precache-manifest.531057a427016a7c5c8993842b72cca0.js": "/nounou-ci/precache-manifest.531057a427016a7c5c8993842b72cca0.js",
     "service-worker.js": "/nounou-ci/service-worker.js",
-    "static/css/main.6b2b4856.chunk.css.map": "/nounou-ci/static/css/main.6b2b4856.chunk.css.map",
+    "static/css/main.535cdfc5.chunk.css.map": "/nounou-ci/static/css/main.535cdfc5.chunk.css.map",
     "static/js/2.c6272cde.chunk.js.LICENSE.txt": "/nounou-ci/static/js/2.c6272cde.chunk.js.LICENSE.txt",
     "static/media/contacts.jpg": "/nounou-ci/static/media/contacts.ce1a3cc9.jpg",
     "static/media/faq_new.png": "/nounou-ci/static/media/faq_new.f1b3a03c.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.143086e3.js",
     "static/js/2.c6272cde.chunk.js",
-    "static/css/main.6b2b4856.chunk.css",
-    "static/js/main.0548dbe4.chunk.js"
+    "static/css/main.535cdfc5.chunk.css",
+    "static/js/main.5b544636.chunk.js"
   ]
 }

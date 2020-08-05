@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nounou-ci/precache-manifest.7f4bcf750b089abe716983fc0064045e.js"
+  "/nounou-ci/precache-manifest.531057a427016a7c5c8993842b72cca0.js"
 );
 
 self.addEventListener('message', (event) => {

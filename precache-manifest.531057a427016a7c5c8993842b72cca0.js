@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99eceb296cc1080ec55a2c7a4626a78a",
+    "revision": "bc6347a99a6c9b3fb45c3a620fb0cc11",
     "url": "/nounou-ci/index.html"
   },
   {
-    "revision": "a86561c93b9b17700b15",
-    "url": "/nounou-ci/static/css/main.6b2b4856.chunk.css"
+    "revision": "cc42392b3160d71dc8b0",
+    "url": "/nounou-ci/static/css/main.535cdfc5.chunk.css"
   },
   {
     "revision": "5a6d895c72a86670d16f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nounou-ci/static/js/2.c6272cde.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a86561c93b9b17700b15",
-    "url": "/nounou-ci/static/js/main.0548dbe4.chunk.js"
+    "revision": "cc42392b3160d71dc8b0",
+    "url": "/nounou-ci/static/js/main.5b544636.chunk.js"
   },
   {
     "revision": "bbe185e0147d66c6bc61",
